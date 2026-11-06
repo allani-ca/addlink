@@ -1,0 +1,4 @@
+Dual MIT/Apache-2.0 License
+
+This software is licensed under the MIT license (LICENSE-MIT.txt) or the
+Apache License, Version 2.0 (LICENSE-APACHE.txt), at your option.
